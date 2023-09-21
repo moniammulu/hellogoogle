@@ -5,3 +5,4 @@ College:anmk
 Course:mca
 affiliated to jntu approved by aicte and ugc
 address:bulla verrappa street,pulivedula
+district:kadapa
